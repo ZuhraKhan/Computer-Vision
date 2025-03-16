@@ -1,3 +1,4 @@
+%% Assignment 1
 function TrafficSignalGUI
     fig = figure('Name', 'Traffic Signal Detector', 'Position', [150, 120, 600, 500]);
 
